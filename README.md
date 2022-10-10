@@ -1,7 +1,7 @@
 # xsens_ros_mti_driver_2022.0
 
 
-=[ Xsens MTi driver for ROS ]============================================================
+=================================[ Xsens MTi driver for ROS ]=================================
 
 Documentation:
     You can find the full documentation in "<your MT SDK directory>/doc/xsensdeviceapi/doc/html/index.html" under "ROS MTi driver" section.
